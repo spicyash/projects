@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>login-logo.png</file>
+        <file>password.png</file>
+        <file>username.png</file>
+        <file>911.png</file>
+        <file>14135.png</file>
+        <file>admin.png</file>
+        <file>g_account.png</file>
+        <file>g_agency.png</file>
+        <file>g_avion.png</file>
+        <file>g_bagage.png</file>
+        <file>g_billet.png</file>
+        <file>g_colis.png</file>
+        <file>g_contart.png</file>
+        <file>g_departement.png</file>
+        <file>g_empl.png</file>
+        <file>g_vol.png</file>
+        <file>g_voyageur.png</file>
+    </qresource>
+</RCC>
